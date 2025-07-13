@@ -1,5 +1,5 @@
 # Airflow-youtube-etl-pipeline
-A simple ETL pipeline that uses the **YouTube Data API** to fetch daily trending videos in India 🇮🇳 and stores them in a **PostgreSQL** database using **Apache Airflow**, all inside a **Docker** environment.
+A simple ETL pipeline that uses the **YouTube Data API** to fetch daily trending videos and stores them in a **PostgreSQL** database using **Apache Airflow**, all inside a **Docker** environment.
 <img width="1920" height="1080" alt="EXTRACT" src="https://github.com/user-attachments/assets/cf623ca4-adec-4446-b49c-c2c03e670346" />
 
 *  Created a DAG to automate a real-time ETL pipeline.
