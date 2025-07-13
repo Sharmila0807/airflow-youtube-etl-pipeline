@@ -1,0 +1,3 @@
+pandas
+apache-airflow-providers-postgres
+apache-airflow-providers-http
